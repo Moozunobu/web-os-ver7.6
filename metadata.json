@@ -1,0 +1,6 @@
+{
+  "name": "noob os WebOS Desktop",
+  "description": "A fully functional web-based noob os desktop environment featuring taskbar, start menu, draggable/resizable windows, the Noob Store custom web app installer, virtual notepad, file manager, custom drawing paint, calculator, excel spreadsheet, browser, terminal, and persistent settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
