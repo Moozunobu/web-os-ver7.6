@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/noon-os/', // ★ここを追加（GitHubのリポジトリ名が「noon-os」の場合）
+    base: '/web-os-ver7.6/', // ここを追加（GitHubのリポジトリ名が「noon-os」の場合）
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
